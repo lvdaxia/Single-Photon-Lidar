@@ -1,0 +1,1 @@
+用于读取T3数据，适用于picoquant timeharp 260p和hydraharp 400
